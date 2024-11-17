@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+.user-list {
+  margin-top: 20px;
+}
+
+.user-item {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 8px;
+}
+
+.user-item h3 {
+  margin: 0;
+  font-size: 1.2em;
+}
+
+.user-item p {
+  margin: 5px 0;
+  color: #555;
+}
